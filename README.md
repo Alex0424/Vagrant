@@ -12,7 +12,7 @@ chose a box: https://app.vagrantup.com/boxes/search
 
 ```
 mkdir my_vagrant_file
-vagrant init centos/8
+vagrant init generic/centos9s
 notepad .\Vagrantfile
 ```
 
