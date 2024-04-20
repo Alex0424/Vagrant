@@ -1,4 +1,4 @@
-# Change Root password for root
+# Change Root password in vagrant
 
 ## option 1
 
