@@ -1,4 +1,4 @@
-# Commands for Vagrant
+# Commands for: Vagrant
 
 ```
 $ vagrant init box-name       #initialize a Vagrantfile
@@ -13,7 +13,7 @@ $ vagrant global-status prune #remove any invalid entries from the list & show s
 $ vagrant box list            #lists all the downloaded boxes
 ```
 
-# Commands inside an Vagrant VM
+# Commands for: when inside an Vagrant VM
 
 ```
 $ sudo -i     # switch to root user
